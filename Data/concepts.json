@@ -45,10 +45,10 @@
     ],
     "explanationNp": "सबैभन्दा पहिले मुख्य Subject (कर्ता) र Verb (क्रिया) पहिचान गर्नुहोस्। त्यसपछि Object (कर्म) र अन्त्यमा तोकिएको टुक्रा (Infinitive: to + V1) जोड्नुहोस्।",
     "examples": [
-      "Subject: The teachers",
-      "Verb + Object: expected the principal",
+      "Subject: The principal",
+      "Verb + Object: expected the teachers",
       "Infinitive phrase: to arrive on time",
-      "Full: The teachers expected the principal to arrive on time."
+      "Full: The principal expected the teachers to arrive on time."
     ]
   }
 ]
