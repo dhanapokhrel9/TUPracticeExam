@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover, maximum-scale=1.0, user-scalable=no" />
+  <title>TU B.Ed. General English Prep</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <main class="app-container">
+    <header class="app-header">
+      <span class="badge">Eng. Ed. 411</span>
+      <h1>TU General English Hub</h1>
+      <p>Grammar Concepts & Interactive Practice</p>
+    </header>
+
+    <!-- Navigation Tabs -->
+    <nav class="tab-nav">
+      <button class="tab-btn active" id="tab-concepts-btn">Concepts</button>
+      <button class="tab-btn" id="tab-exercises-btn">Exercises</button>
+    </nav>
+
+    <!-- TAB 1: CONCEPTS -->
+    <section class="tab-content active" id="concepts-tab">
+      <div class="content-scroll" id="concepts-container">
+        <div class="loading-state">Loading concepts...</div>
+      </div>
+    </section>
+
+    <!-- TAB 2: EXERCISES -->
+    <section class="tab-content" id="exercises-tab">
+      <div class="content-scroll">
+        <div class="exercise-header">
+          <span id="ex-counter">Loading...</span>
+        </div>
+
+        <div class="exercise-card" id="exercise-card">
+          <div class="ex-type" id="ex-type">Question Type</div>
+          <div class="ex-prompt" id="ex-prompt">Select an exercise...</div>
+          <div class="ex-hint" id="ex-hint"></div>
+          
+          <div class="ex-input-area">
+            <textarea id="ex-user-input" placeholder="Type your answer here..." rows="3"></textarea>
+          </div>
+
+          <button class="action-btn" id="check-btn">Check Answer</button>
+
+          <div class="feedback-box hidden" id="feedback-box">
+            <div class="status" id="feedback-status"></div>
+            <div class="correct-ans" id="feedback-correct"></div>
+            <div class="explanation" id="feedback-explain"></div>
+          </div>
+        </div>
+
+        <div class="nav-controls">
+          <button id="prev-ex-btn">Previous</button>
+          <button id="next-ex-btn">Next</button>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>

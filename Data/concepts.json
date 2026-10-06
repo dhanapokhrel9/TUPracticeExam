@@ -1,0 +1,54 @@
+[
+  {
+    "id": "q1-articles",
+    "tag": "Q1 & Q2a",
+    "title": "1. Articles (Articles: A, An, The, -)",
+    "rulesEn": [
+      "A: Used before singular countable nouns starting with a consonant sound (e.g., a university, a train).",
+      "An: Used before singular countable nouns starting with a vowel sound (e.g., an hour, an M.A., an apple).",
+      "The: Used for specific items, unique things, or previously mentioned nouns (e.g., the sun, the train).",
+      "- (Zero Article): Used for general plural nouns, proper names, or abstract concepts."
+    ],
+    "explanationNp": "व्यञ्जन ध्वनि (Consonant Sound) अगाडि 'a', स्वर ध्वनि (Vowel Sound) अगाडि 'an', र कुनै खास वा निश्चित वस्तु/नदी/प्रसिद्ध चीजको अगाडि 'the' को प्रयोग गरिन्छ।",
+    "examples": [
+      "a train (starts with /t/ consonant sound)",
+      "an hour (starts with /a/ vowel sound)",
+      "the train had stopped (referring to the specific train mentioned earlier)"
+    ]
+  },
+  {
+    "id": "q2-prepositions",
+    "tag": "Q2",
+    "title": "2. Matching & Preposition Phrases",
+    "rulesEn": [
+      "Time Bounds: 'may have left by now' indicates expected completion by the current moment.",
+      "Duration: 'all through the night' covers the entire duration of the night.",
+      "Exception: 'apart from the wet weather' excludes weather from the condition.",
+      "Location: 'under my jacket', 'inside the house', 'on the table'."
+    ],
+    "explanationNp": "वाक्य जोड्दा वा Preposition छान्दा अर्थ र समय (Time) को ध्यान दिनुपर्छ। जस्तै: by now (अहिलेसम्ममा), all through the night (रातभरि)।",
+    "examples": [
+      "The last bus may have left + by now.",
+      "Work all + through the night.",
+      "I think they're on + the table."
+    ]
+  },
+  {
+    "id": "q3-rearrangement",
+    "tag": "Q3",
+    "title": "3. Sentence Structure & Word Order",
+    "rulesEn": [
+      "Standard Formula: Subject + Verb + Object + Infinitive/Prepositional Phrase.",
+      "Step 1: Identify who is performing the action (Subject).",
+      "Step 2: Find the main verb or expectation verb (e.g., expected, planning).",
+      "Step 3: Attach infinitive phrase (e.g., to arrive on time, to hire)."
+    ],
+    "explanationNp": "सबैभन्दा पहिले मुख्य Subject (कर्ता) र Verb (क्रिया) पहिचान गर्नुहोस्। त्यसपछि Object (कर्म) र अन्त्यमा तोकिएको टुक्रा (Infinitive: to + V1) जोड्नुहोस्।",
+    "examples": [
+      "Subject: The teachers",
+      "Verb + Object: expected the principal",
+      "Infinitive phrase: to arrive on time",
+      "Full: The teachers expected the principal to arrive on time."
+    ]
+  }
+]
