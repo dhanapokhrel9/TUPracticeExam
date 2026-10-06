@@ -1,634 +1,402 @@
 [
   {
     "type": "Question 1: Article Exercise",
-    "prompt": "Many years ago, this ______ train was approaching a bridge.",
-    "hint": "Look at the word 'this' right before the blank.",
-    "answer": "-",
-    "explanationEn": "No article (-) is used because 'this' is already a demonstrative determiner modifying 'train'.",
-    "explanationNp": "'this' आफैमा Determinative भएकाले 'this' पछि कुनै पनि Article (-) प्रयोग हुँदैन।"
-  },
-  {
-    "type": "Question 1: Article Exercise",
-    "prompt": "While traveling through the valley, we crossed a bridge over ______ river.",
-    "hint": "Singular countable noun mentioned for the first time.",
+    "prompt": "She has been living in ______ European country for two years.",
+    "hint": "Check the initial sound of 'European'.",
     "answer": "a",
-    "explanationEn": "'a' is used before 'river' because it starts with a consonant sound (/r/) and is mentioned for the first time in a general sense.",
-    "explanationNp": "'river' व्यञ्जन ध्वनि (Consonant Sound) बाट सुरु भएको र पहिलो पटक आएकाले 'a' प्रयोग हुन्छ।"
+    "explanationEn": "'a' is used because 'European' begins with a consonant sound (/jʊərəˈpiːən/).",
+    "explanationNp": "'European' को उच्चारण 'यु' (Consonant Sound) बाट हुने भएकाले 'a' प्रयोग हुन्छ।"
   },
   {
     "type": "Question 1: Article Exercise",
-    "prompt": "As the train sped down the track, ______ driver noticed a strange figure ahead.",
-    "hint": "Refers to the specific driver operating the train in context.",
-    "answer": "the",
-    "explanationEn": "'the' is used because it refers to the specific driver operating the train mentioned in the sentence context.",
-    "explanationNp": "वाक्यको सन्दर्भले तोकेको चालक (driver) भएकाले 'the' प्रयोग हुन्छ।"
-  },
-  {
-    "type": "Question 1: Article Exercise",
-    "prompt": "Looking through the fog, the driver saw ______ strange figure standing ahead on the track.",
-    "hint": "Unknown or unspecified figure introduced for the first time.",
-    "answer": "a",
-    "explanationEn": "'a' is used because 'strange' starts with a consonant sound (/str/) and introduces an unspecified entity for the first time.",
-    "explanationNp": "'strange' व्यञ्जन ध्वनिबाट सुरु हुने र पहिलो पटक आएकाले 'a' प्रयोग हुन्छ।"
-  },
-  {
-    "type": "Question 1: Article Exercise",
-    "prompt": "When the conductor pulled the emergency lever, the noise of ______ brakes was terrible.",
-    "hint": "Refers to the specific brakes of the train being discussed.",
-    "answer": "the",
-    "explanationEn": "'the' is used to specify the particular brakes of the train in this scenario.",
-    "explanationNp": "तोकिएको रेलको ब्रेक भएकाले निश्चित रूपमा 'the' प्रयोग हुन्छ।"
-  },
-  {
-    "type": "Question 1: Article Exercise",
-    "prompt": "Before leaving the room, he took his ______ lamp and walked out into the dark.",
-    "hint": "Look at the possessive pronoun 'his' before the blank.",
-    "answer": "-",
-    "explanationEn": "No article (-) is used directly after possessive pronouns like 'his', 'her', or 'my'.",
-    "explanationNp": "Possessive pronoun ('his', 'my', 'her') पछि तुरुन्तै कुनै Article (-) प्रयोग हुँदैन।"
-  },
-  {
-    "type": "Question 1: Article Exercise",
-    "prompt": "He walked ______ few steps along the path to inspect the damage.",
-    "hint": "Set phrase indicating a small number.",
-    "answer": "a",
-    "explanationEn": "'a few' is a fixed expression meaning a small number of items.",
-    "explanationNp": "'a few' एउटा निश्चित वाक्यांश (Phrase) हो जसको अर्थ 'केही' हुन्छ।"
-  },
-  {
-    "type": "Question 1: Article Exercise",
-    "prompt": "She didn't recognize ______ boy in the blue shirt standing near the gate.",
-    "hint": "Specific boy modified by the phrase 'in the blue shirt'.",
-    "answer": "the",
-    "explanationEn": "'the' is used because 'in the blue shirt' specifies exactly which boy is being identified.",
-    "explanationNp": "नीलो सर्ट लगाएको खास केटा (specific boy) को कुरा भएकाले 'the' प्रयोग हुन्छ।"
-  },
-  {
-    "type": "Question 1: Article Exercise",
-    "prompt": "Hari is ______ honest boy who always tells the truth.",
-    "hint": "Pay attention to the initial sound of 'honest'.",
-    "answer": "an",
-    "explanationEn": "'an' is used because 'honest' starts with a silent 'h' and a vowel sound (/ɒ/).",
-    "explanationNp": "'honest' को पहिलो अक्षर 'h' भए पनि स्वर ध्वनि (Vowel Sound - 'अ') बाट उच्चारण हुने भएकाले 'an' लाग्छ।"
-  },
-  {
-    "type": "Question 1: Article Exercise",
-    "prompt": "His father works as ______ University professor.",
-    "hint": "Pay attention to the initial sound of 'University'.",
-    "answer": "a",
-    "explanationEn": "'a' is used because 'University' starts with a consonant sound (/juː/).",
-    "explanationNp": "'University' अक्षर 'U' बाट सुरु भए पनि व्यञ्जन ध्वनि ('यु') आउने भएकाले 'a' प्रयोग हुन्छ।"
-  },
-  {
-    "type": "Question 1: Article Exercise",
-    "prompt": "Copper is ______ useful metal used in electrical wiring.",
-    "hint": "Sound check for 'useful'.",
-    "answer": "a",
-    "explanationEn": "'a' is used because 'useful' begins with a consonant sound (/juː/).",
-    "explanationNp": "'useful' को उच्चारण व्यञ्जन ध्वनि ('यु') बाट हुने भएकाले 'a' लाग्छ।"
-  },
-  {
-    "type": "Question 1: Article Exercise",
-    "prompt": "She will return in ______ hour after completing her meeting.",
-    "hint": "Silent letter rule.",
+    "prompt": "He returned home after ______ hour of waiting at the station.",
+    "hint": "Silent letter rule for 'hour'.",
     "answer": "an",
     "explanationEn": "'an' is used because 'hour' has a silent 'h' and begins with a vowel sound (/aʊər/).",
     "explanationNp": "'hour' मा 'h' Silent रहने हुनाले स्वर ध्वनि ('आ') बाट सुरु हुन्छ, त्यसैले 'an' प्रयोग गरिन्छ।"
   },
   {
     "type": "Question 1: Article Exercise",
-    "prompt": "______ Sun rises in the east and sets in the west.",
-    "hint": "Unique natural object.",
-    "answer": "the",
-    "explanationEn": "'the' is used before unique astronomical and natural objects.",
-    "explanationNp": "ब्रह्माण्डमा एउटै मात्र भएका अद्वितीय वस्तुहरूको अगाडि 'the' प्रयोग गरिन्छ।"
-  },
-  {
-    "type": "Question 1: Article Exercise",
-    "prompt": "Mount Everest is ______ highest peak in the world.",
-    "hint": "Superlative degree adjective 'highest'.",
-    "answer": "the",
-    "explanationEn": "'the' is always used before superlative adjectives (e.g., highest, tallest, best).",
-    "explanationNp": "Superlative degree ('highest', 'best') को अगाडि सधैँ 'the' प्रयोग हुन्छ।"
-  },
-  {
-    "type": "Question 1: Article Exercise",
-    "prompt": "He plays ______ guitar very well during music sessions.",
-    "hint": "Musical instrument rule.",
-    "answer": "the",
-    "explanationEn": "'the' is used before the names of musical instruments when referring to playing them.",
-    "explanationNp": "बाजा (Musical Instruments) बजाउने कुरा गर्दा अगाडि 'the' प्रयोग गरिन्छ।"
-  },
-  {
-    "type": "Question 1: Article Exercise",
-    "prompt": "______ Bagmati is a sacred river in Nepal.",
-    "hint": "Names of rivers.",
-    "answer": "the",
-    "explanationEn": "'the' is used before proper names of rivers, seas, and oceans.",
-    "explanationNp": "नदी, समुद्र र महासागरको नाम अगाडि 'the' प्रयोग गरिन्छ।"
-  },
-  {
-    "type": "Question 1: Article Exercise",
-    "prompt": "He bought ______ M.A. degree form yesterday.",
-    "hint": "Abbreviation starting with a vowel sound.",
-    "answer": "an",
-    "explanationEn": "'an' is used because the abbreviation 'M.A.' starts with a vowel sound (/ɛm/).",
-    "explanationNp": "'M.A.' को उच्चारण गर्दा स्वर ध्वनि ('एम') आउने भएकाले 'an' प्रयोग गरिन्छ।"
-  },
-  {
-    "type": "Question 1: Article Exercise",
-    "prompt": "My uncle works as ______ S.P. in Nepal Police.",
-    "hint": "Abbreviation sound check.",
-    "answer": "an",
-    "explanationEn": "'an' is used because 'S.P.' starts with a vowel sound (/ɛs/).",
-    "explanationNp": "'S.P.' को उच्चारण गर्दा स्वर ध्वनि ('एस') बाट सुरु हुने हुनाले 'an' लाग्छ।"
-  },
-  {
-    "type": "Question 1: Article Exercise",
-    "prompt": "They live in ______ United States of America.",
-    "hint": "Country name containing 'United'.",
-    "answer": "the",
-    "explanationEn": "'the' is used for countries whose names contain words like 'United', 'Kingdom', or 'Republic'.",
-    "explanationNp": "'United', 'Kingdom', वा 'Republic' जोडिएका देशका नाम अगाडि 'the' प्रयोग हुन्छ।"
-  },
-  {
-    "type": "Question 1: Article Exercise",
-    "prompt": "______ water in this glass is dirty.",
-    "hint": "Uncountable noun made specific by location ('in this glass').",
-    "answer": "the",
-    "explanationEn": "'the' is used with uncountable nouns when they are specified or limited to a particular container or location.",
-    "explanationNp": "यस गिलासको तोकिएको पानी (specific water) को कुरा भएकाले 'the' प्रयोग हुन्छ।"
-  },
-  {
-    "type": "Question 1: Article Exercise",
-    "prompt": "I like ______ milk for breakfast every morning.",
-    "hint": "General uncountable noun.",
+    "prompt": "______ Mount Everest is the highest peak in the world.",
+    "hint": "Rule for individual mountain peaks.",
     "answer": "-",
-    "explanationEn": "No article (-) is used before uncountable nouns used in a general sense.",
-    "explanationNp": "साधारण अर्थमा Uncountable Noun (दूध, चिया) को कुरा गर्दा कुनै Article (-) लाग्दैन।"
+    "explanationEn": "No article (-) is used before the proper names of individual mountain peaks.",
+    "explanationNp": "एउटा मात्रै सर्वोच्च शिखर वा हिमालको नाम (Mount Everest) अगाडि कुनै Article (-) लाग्दैन।"
   },
   {
     "type": "Question 1: Article Exercise",
-    "prompt": "Yesterday I saw ______ European tourist near Swayambhu.",
-    "hint": "Initial sound of 'European'.",
-    "answer": "a",
-    "explanationEn": "'a' is used because 'European' starts with a consonant sound (/jʊərəˈpiːən/).",
-    "explanationNp": "'European' को उच्चारण 'यु' (Consonant Sound) बाट हुने भएकाले 'a' प्रयोग हुन्छ।"
+    "prompt": "She bought ______ umbrella to protect herself from the rain.",
+    "hint": "Initial sound check for 'umbrella'.",
+    "answer": "an",
+    "explanationEn": "'an' is used because 'umbrella' begins with a vowel sound (/ʌmˈbrɛlə/).",
+    "explanationNp": "'umbrella' स्वर ध्वनि ('अ') बाट सुरु हुने भएकाले 'an' प्रयोग गरिन्छ।"
   },
   {
     "type": "Question 1: Article Exercise",
-    "prompt": "He gave me ______ one-rupee note.",
-    "hint": "Initial sound of 'one'.",
+    "prompt": "He is ______ honest officer who never takes bribes.",
+    "hint": "Pay attention to the initial sound of 'honest'.",
+    "answer": "an",
+    "explanationEn": "'an' is used because 'honest' starts with a silent 'h' and a vowel sound (/ˈɒnɪst/).",
+    "explanationNp": "'honest' मा 'h' Silent भई स्वर ध्वनि ('अ') आउने भएकाले 'an' लाग्छ।"
+  },
+  {
+    "type": "Question 1: Article Exercise",
+    "prompt": "______ Bagmati is considered a holy river in Nepal.",
+    "hint": "Names of rivers.",
+    "answer": "The",
+    "explanationEn": "'The' is used before proper names of rivers.",
+    "explanationNp": "नदीको नाम अगाडि सधैँ 'The' प्रयोग गरिन्छ।"
+  },
+  {
+    "type": "Question 1: Article Exercise",
+    "prompt": "My brother is studying to become ______ engineer.",
+    "hint": "Profession starting with a vowel sound.",
+    "answer": "an",
+    "explanationEn": "'an' is used because 'engineer' starts with a vowel sound (/ɛndʒɪˈnɪər/).",
+    "explanationNp": "'engineer' स्वर ध्वनि ('इ') बाट सुरु हुने भएकाले 'an' प्रयोग हुन्छ।"
+  },
+  {
+    "type": "Question 1: Article Exercise",
+    "prompt": "They visited ______ United Kingdom last summer.",
+    "hint": "Country name containing 'United' or 'Kingdom'.",
+    "answer": "the",
+    "explanationEn": "'the' is used for country names containing words like 'United', 'Kingdom', or 'Republic'.",
+    "explanationNp": "'United' वा 'Kingdom' जोडिएका देशको नाम अगाडि 'the' लाग्छ।"
+  },
+  {
+    "type": "Question 1: Article Exercise",
+    "prompt": "______ water in this pitcher is not clean enough to drink.",
+    "hint": "Uncountable noun specified by location/context.",
+    "answer": "The",
+    "explanationEn": "'The' is used because 'water' is specified by the phrase 'in this pitcher'.",
+    "explanationNp": "यस घडाको तोकिएको पानी (specific water) को कुरा भएकाले 'The' प्रयोग हुन्छ।"
+  },
+  {
+    "type": "Question 1: Article Exercise",
+    "prompt": "Milk is good for ______ health.",
+    "hint": "Abstract noun used in a general sense.",
+    "answer": "-",
+    "explanationEn": "No article (-) is used before abstract nouns used in a general sense.",
+    "explanationNp": "सामान्य अर्थमा 'health' जस्ता Abstract Noun अगाडि कुनै Article (-) लाग्दैन।"
+  },
+  {
+    "type": "Question 1: Article Exercise",
+    "prompt": "He gave me ______ one-rupee coin as a souvenir.",
+    "hint": "Initial sound check for 'one'.",
     "answer": "a",
     "explanationEn": "'a' is used because 'one' starts with a consonant sound (/wʌn/).",
     "explanationNp": "'one' को उच्चारण 'व' (Consonant Sound) बाट हुने हुनाले 'a' लाग्छ।"
   },
   {
     "type": "Question 1: Article Exercise",
-    "prompt": "______ Kathmandu is the capital of Nepal.",
-    "hint": "Proper noun / name of a city.",
-    "answer": "-",
-    "explanationEn": "No article (-) is used before proper names of cities, countries, or people.",
-    "explanationNp": "शहर, देश वा मानिसको नाम (Proper Noun) अगाडि कुनै Article (-) लाग्दैन।"
-  },
-  {
-    "type": "Question 1: Article Exercise",
-    "prompt": "She reads ______ Bhagavad Gita every morning.",
-    "hint": "Religious scriptures and holy books.",
+    "prompt": "She plays ______ flute every evening in her room.",
+    "hint": "Musical instrument rule.",
     "answer": "the",
-    "explanationEn": "'the' is used before names of holy religious books.",
-    "explanationNp": "धार्मिक ग्रन्थहरू (जस्तै: Gita, Bible, Quran) को नाम अगाडि 'the' प्रयोग हुन्छ।"
+    "explanationEn": "'the' is used before musical instruments when referring to playing them.",
+    "explanationNp": "बाजा बजाउने कुरा गर्दा बाजाको नाम अगाडि 'the' प्रयोग गरिन्छ।"
   },
   {
     "type": "Question 1: Article Exercise",
-    "prompt": "______ rich should help the poor in times of difficulty.",
-    "hint": "Adjective used as a noun group.",
+    "prompt": "It was ______ unexpected turn of events.",
+    "hint": "Initial sound check for 'unexpected'.",
+    "answer": "an",
+    "explanationEn": "'an' is used because 'unexpected' begins with a vowel sound (/ʌnɪkˈspɛktɪd/).",
+    "explanationNp": "'unexpected' को उच्चारण स्वर ध्वनि ('अ') बाट सुरु हुने भएकाले 'an' लाग्छ।"
+  },
+  {
+    "type": "Question 1: Article Exercise",
+    "prompt": "______ rich should always help the needy.",
+    "hint": "Adjective representing an entire class of people.",
     "answer": "The",
     "explanationEn": "'The' placed before an adjective converts it into a plural noun representing the entire group.",
-    "explanationNp": "'The rich' ले संसारभरिका सबै धनी मानिसहरूको समूहलाई बुझाउँछ।"
+    "explanationNp": "'The rich' ले संसारका सम्पूर्ण धनी वर्गलाई बुझाउने भएकाले 'The' प्रयोग हुन्छ।"
   },
   {
     "type": "Question 1: Article Exercise",
-    "prompt": "He is ______ taller of the two brothers.",
+    "prompt": "I met ______ university professor at the seminar yesterday.",
+    "hint": "Initial sound check for 'university'.",
+    "answer": "a",
+    "explanationEn": "'a' is used because 'university' begins with a consonant sound (/juːnɪˈvɜːsɪti/).",
+    "explanationNp": "'university' को उच्चारण 'यु' (Consonant Sound) बाट सुरु हुने भएकाले 'a' लाग्छ।"
+  },
+  {
+    "type": "Question 1: Article Exercise",
+    "prompt": "My father reads ______ Kathmandu Post every morning.",
+    "hint": "Names of newspapers.",
+    "answer": "the",
+    "explanationEn": "'the' is used before proper names of newspapers.",
+    "explanationNp": "पत्रपत्रिकाको नाम अगाडि सधैँ 'the' प्रयोग गरिन्छ।"
+  },
+  {
+    "type": "Question 1: Article Exercise",
+    "prompt": "He was appointed as ______ S.P. of the district police.",
+    "hint": "Abbreviation initial sound check.",
+    "answer": "an",
+    "explanationEn": "'an' is used because 'S.P.' begins with a vowel sound (/ɛs/).",
+    "explanationNp": "'S.P.' को उच्चारण गर्दा स्वर ध्वनि ('एस') आउने भएकाले 'an' प्रयोग गरिन्छ।"
+  },
+  {
+    "type": "Question 1: Article Exercise",
+    "prompt": "She lives in ______ small apartment near the station.",
+    "hint": "Singular countable noun introduced for the first time.",
+    "answer": "a",
+    "explanationEn": "'a' is used because 'small' begins with a consonant sound (/sm/).",
+    "explanationNp": "'small' व्यञ्जन ध्वनिबाट सुरु हुने र सामान्य अर्थमा आएकाले 'a' लाग्छ।"
+  },
+  {
+    "type": "Question 1: Article Exercise",
+    "prompt": "We had lunch at ______ restaurant near the river.",
+    "hint": "Unspecified singular countable noun introduced for the first time.",
+    "answer": "a",
+    "explanationEn": "'a' introduces an unspecified singular noun with a consonant sound.",
+    "explanationNp": "पहिलो पटक कुरा गरिएको सामान्य रेस्टुरेन्ट भएकाले 'a' प्रयोग हुन्छ।"
+  },
+  {
+    "type": "Question 1: Article Exercise",
+    "prompt": "______ sun rises in the east and sets in the west.",
+    "hint": "Unique natural astronomical body.",
+    "answer": "The",
+    "explanationEn": "'The' is used before unique astronomical and natural entities.",
+    "explanationNp": "संसारमा एउटै मात्र भएको वस्तु (Sun) अगाडि 'The' प्रयोग गरिन्छ।"
+  },
+  {
+    "type": "Question 1: Article Exercise",
+    "prompt": "He went to ______ hospital to visit his sick friend.",
+    "hint": "Visiting an institution for a secondary/other purpose.",
+    "answer": "the",
+    "explanationEn": "'the' is used when visiting an institution (hospital) for a purpose other than receiving treatment.",
+    "explanationNp": "बिरामी भेट्न (द्वितीयक उद्देश्यले) अस्पताल जाँदा 'the' प्रयोग हुन्छ।"
+  },
+  {
+    "type": "Question 1: Article Exercise",
+    "prompt": "Children usually go to ______ school at eight in the morning.",
+    "hint": "Visiting an institution for its primary purpose.",
+    "answer": "-",
+    "explanationEn": "No article (-) is used when visiting school for its primary function (studying).",
+    "explanationNp": "अध्ययन गर्न स्कुल जाँदा (प्राथमिक उद्देश्य) कुनै Article (-) लाग्दैन।"
+  },
+  {
+    "type": "Question 1: Article Exercise",
+    "prompt": "She is ______ taller of the two sisters.",
     "hint": "Comparative degree used for selection between two.",
     "answer": "the",
-    "explanationEn": "'the' is used before a comparative adjective when pointing out selection between two options.",
-    "explanationNp": "दुईजना बीच तुलना गरेर एकजना छान्दा Comparative degree अगाडि 'the' प्रयोग हुन्छ।"
+    "explanationEn": "'the' is used before a comparative adjective when indicating selection between two entities.",
+    "explanationNp": "दुईजना बीच तुलना गरेर एकजना छान्दा Comparative degree अगाडि 'the' लाग्छ।"
   },
   {
     "type": "Question 1: Article Exercise",
-    "prompt": "______ English is spoken all over the world.",
+    "prompt": "Copper is ______ useful metal in electrical wiring.",
+    "hint": "Initial sound check for 'useful'.",
+    "answer": "a",
+    "explanationEn": "'a' is used because 'useful' starts with a consonant sound (/juːsfʊl/).",
+    "explanationNp": "'useful' को उच्चारण 'यु' (Consonant Sound) बाट हुने हुनाले 'a' प्रयोग हुन्छ।"
+  },
+  {
+    "type": "Question 1: Article Exercise",
+    "prompt": "He has ______ M.A. degree in English literature.",
+    "hint": "Abbreviation initial sound check.",
+    "answer": "an",
+    "explanationEn": "'an' is used because 'M.A.' starts with a vowel sound (/ɛm/).",
+    "explanationNp": "'M.A.' को उच्चारण स्वर ध्वनि ('एम') बाट सुरु हुने भएकाले 'an' लाग्छ।"
+  },
+  {
+    "type": "Question 1: Article Exercise",
+    "prompt": "What ______ beautiful scene this is!",
+    "hint": "Exclamatory sentence structure.",
+    "answer": "a",
+    "explanationEn": "'a' is used in exclamatory structures following 'What' before singular countable nouns.",
+    "explanationNp": "'What' बाट सुरु हुने विस्मयादिबोधक वाक्यमा 'a' प्रयोग हुन्छ।"
+  },
+  {
+    "type": "Question 1: Article Exercise",
+    "prompt": "They booked a room in ______ hotel near the beach.",
+    "hint": "Unspecified singular countable noun with a consonant sound.",
+    "answer": "a",
+    "explanationEn": "'a' is used before 'hotel' as it begins with a consonant sound (/h/).",
+    "explanationNp": "'hotel' व्यञ्जन ध्वनि ('ह') बाट सुरु हुने भएकाले 'a' लाग्छ।"
+  },
+  {
+    "type": "Question 1: Article Exercise",
+    "prompt": "______ English is spoken in many countries around the world.",
     "hint": "Language name without the word 'language'.",
     "answer": "-",
-    "explanationEn": "No article (-) is used before language names unless followed by the word 'language'.",
-    "explanationNp": "भाषाको नाम (English, Nepali) को अगाडि Article (-) प्रयोग हुँदैन।"
+    "explanationEn": "No article (-) is used before language names when used alone.",
+    "explanationNp": "भाषाको नाम (English) अगाडि कुनै Article (-) लाग्दैन।"
   },
   {
     "type": "Question 1: Article Exercise",
-    "prompt": "______ English language is widely spoken around the globe.",
-    "hint": "Language name followed explicitly by 'language'.",
+    "prompt": "______ English language has borrowed words from many sources.",
+    "hint": "Language name explicitly followed by 'language'.",
     "answer": "The",
-    "explanationEn": "'The' is used when the word 'language' explicitly follows a language name.",
-    "explanationNp": "भाषाको नाम पछि 'language' शब्द जोडिएर आएमा अगाडि 'The' लाग्छ।"
+    "explanationEn": "'The' is used when a language name is directly followed by the word 'language'.",
+    "explanationNp": "भाषाको नाम पछि 'language' शब्द आएमा अगाडि 'The' प्रयोग गरिन्छ।"
   },
   {
     "type": "Question 1: Article Exercise",
-    "prompt": "She goes to ______ church every Sunday to pray.",
-    "hint": "Primary purpose of visiting an institution.",
+    "prompt": "He took his ______ coat and walked out into the cold.",
+    "hint": "Look at the possessive pronoun 'his' before the blank.",
     "answer": "-",
-    "explanationEn": "No article (-) is used before places like school, church, or hospital when used for their primary purpose.",
-    "explanationNp": "प्रार्थना गर्न चर्च जाँदा (प्राथमिक उद्देश्य) कुनै Article (-) लाग्दैन।"
+    "explanationEn": "No article (-) is used immediately after possessive pronouns like 'his', 'her', or 'my'.",
+    "explanationNp": "Possessive pronoun ('his', 'my') पछि तुरुन्तै कुनै Article (-) लाग्दैन।"
   },
   {
     "type": "Question 1: Article Exercise",
-    "prompt": "The workman went to ______ church to repair the roof.",
-    "hint": "Secondary/other purpose of visiting a building.",
-    "answer": "the",
-    "explanationEn": "'the' is used when visiting a building like a church or school for a purpose other than its primary function.",
-    "explanationNp": "मर्मत गर्न वा अर्कै कामले चर्च जाँदा (द्वितीयक उद्देश्य) 'the' प्रयोग हुन्छ।"
-  },
-  {
-    "type": "Question 1: Article Exercise",
-    "prompt": "What ______ beautiful flower this is!",
-    "hint": "Exclamatory sentence with singular countable noun.",
+    "prompt": "She bought ______ dozen apples from the local vendor.",
+    "hint": "Fixed numerical unit phrase.",
     "answer": "a",
-    "explanationEn": "'a' is used in exclamatory structures starting with 'What' before singular countable nouns.",
-    "explanationNp": "'What' बाट सुरु हुने विस्मयादिबोधक वाक्यमा 'a/an' को प्रयोग गरिन्छ।"
+    "explanationEn": "'a dozen' is a standard fixed expression for twelve items.",
+    "explanationNp": "'a dozen' एउटा निश्चित वाक्यांश हो।"
   },
   {
-    "type": "Question 2: Sentence Matching",
-    "prompt": "Match stem: 'It's already 11.30. The last bus may have left ______'",
-    "hint": "Expectation at the current moment.",
-    "answer": "by now",
-    "explanationEn": "'by now' denotes an expected completed action at the current moment.",
-    "explanationNp": "'by now' ले अहिलेसम्ममा गाडी छुटिसकेको हुनसक्छ भन्ने समय जनाउँछ।"
+    "type": "Question 1: Article Exercise",
+    "prompt": "I need ______ piece of paper to write down the directions.",
+    "hint": "Unit expression for uncountable nouns.",
+    "answer": "a",
+    "explanationEn": "'a piece of' is a standard measure phrase for uncountable nouns like 'paper'.",
+    "explanationNp": "कागज गन्न मिल्ने बनाउन प्रयोग गरिने वाक्यांशमा 'a piece of' लाग्छ।"
   },
   {
-    "type": "Question 2: Sentence Matching",
-    "prompt": "Match stem: 'Most of the time our cat stays ______'",
-    "hint": "Location phrase inside a residence.",
-    "answer": "inside the house",
-    "explanationEn": "'inside the house' specifies the location where the cat resides.",
-    "explanationNp": "'inside the house' ले बिरालो घरभित्र बस्छ भन्ने स्थान जनाउँछ।"
+    "type": "Question 1: Article Exercise",
+    "prompt": "______ Gita is one of the most sacred books in Hinduism.",
+    "hint": "Holy religious books.",
+    "answer": "The",
+    "explanationEn": "'The' is used before names of sacred religious texts.",
+    "explanationNp": "धार्मिक ग्रन्थको नाम अगाडि सधैँ 'The' प्रयोग गरिन्छ।"
   },
   {
-    "type": "Question 2: Sentence Matching",
-    "prompt": "Match stem: 'Hari's test result was ______'",
-    "hint": "Comparison phrase showing top performance across the nation.",
-    "answer": "among the best in the country",
-    "explanationEn": "'among the best in the country' is a prepositional phrase showing high ranking.",
-    "explanationNp": "'among the best in the country' ले देशकै उत्कृष्टमध्ये एक भन्ने अर्थ दिन्छ।"
+    "type": "Question 1: Article Exercise",
+    "prompt": "He is preparing for ______ ironman triathlon next year.",
+    "hint": "Initial sound check for 'ironman'.",
+    "answer": "an",
+    "explanationEn": "'an' is used because 'ironman' begins with a vowel sound (/ˈaɪən mæn/).",
+    "explanationNp": "'ironman' को उच्चारण स्वर ध्वनि ('आ') बाट सुरु हुने भएकाले 'an' लाग्छ।"
   },
   {
-    "type": "Question 2: Sentence Matching",
-    "prompt": "Match stem: 'In order to finish my assignment, I had to work all ______'",
-    "hint": "Duration phrase covering continuous night time.",
-    "answer": "through the night",
-    "explanationEn": "'through the night' indicates continuous effort throughout the night hours.",
-    "explanationNp": "'through the night' ले रातभरि निरन्तर काम गरेको जनाउँछ।"
+    "type": "Question 1: Article Exercise",
+    "prompt": "We crossed ______ bridge that was built fifty years ago.",
+    "hint": "Noun specified by a relative defining clause.",
+    "answer": "the",
+    "explanationEn": "'the' is used because the relative clause 'that was built fifty years ago' specifies the bridge.",
+    "explanationNp": "पछाडिको वाक्यले तोकेको खास पुल (specific bridge) भएकाले 'the' प्रयोग हुन्छ।"
   },
   {
-    "type": "Question 2: Sentence Matching",
-    "prompt": "Match stem: 'All their lives, Rabin and Rina have lived ______'",
-    "hint": "Location phrase indicating proximity.",
-    "answer": "near each other",
-    "explanationEn": "'near each other' describes geographic closeness between two subjects.",
-    "explanationNp": "'near each other' ले एक-अर्काको नजिक बसेको जनाउँछ।"
+    "type": "Question 1: Article Exercise",
+    "prompt": "They live in this ______ house on the corner.",
+    "hint": "Look at the demonstrative determiner 'this' before the blank.",
+    "answer": "-",
+    "explanationEn": "No article (-) is used directly after demonstrative determiners like 'this', 'that', or 'these'.",
+    "explanationNp": "Demonstrative ('this', 'that') पछि तुरुन्तै कुनै Article (-) प्रयोग हुँदैन।"
   },
   {
-    "type": "Question 2: Sentence Matching",
-    "prompt": "Match stem: 'Can you pass me my keys? I think they're on ______'",
-    "hint": "Surface location phrase.",
-    "answer": "the table",
-    "explanationEn": "'on the table' is the standard prepositional phrase for objects resting on a surface.",
-    "explanationNp": "सतहमा राखिएका वस्तुका लागि 'on the table' प्रयोग हुन्छ।"
+    "type": "Question 1: Article Exercise",
+    "prompt": "She is ______ heir to a massive family fortune.",
+    "hint": "Silent letter rule for 'heir'.",
+    "answer": "an",
+    "explanationEn": "'an' is used because 'heir' has a silent 'h' and begins with a vowel sound (/ɛər/).",
+    "explanationNp": "'heir' (उत्तराधिकारी) मा 'h' Silent भई उच्चारण स्वर ध्वनि ('ए') बाट हुने भएकाले 'an' लाग्छ।"
   },
   {
-    "type": "Question 2: Sentence Matching",
-    "prompt": "Match stem: 'It was a perfect holiday, ______'",
-    "hint": "Exception phrase excluding bad weather.",
-    "answer": "apart from the wet weather",
-    "explanationEn": "'apart from' functions as a preposition meaning 'except for'.",
-    "explanationNp": "'apart from' को अर्थ 'बाहेक' (except for) हुन्छ।"
+    "type": "Question 1: Article Exercise",
+    "prompt": "He has been playing ______ chess since he was six years old.",
+    "hint": "Rule for sports and games.",
+    "answer": "-",
+    "explanationEn": "No article (-) is used before names of sports, games, or board games.",
+    "explanationNp": "खेलकुदका नाम (chess, football) अगाडि कुनै Article (-) लाग्दैन।"
   },
   {
-    "type": "Question 2: Preposition Choice",
-    "prompt": "I will have visited Denmark ...... end of this year.",
-    "hint": "Deadline phrase used with Future Perfect tense.",
-    "answer": "by the",
-    "explanationEn": "'by the end of' indicates a deadline for a future completed action.",
-    "explanationNp": "Future Perfect tense मा 'by the end of' (वर्षको अन्त्यसम्ममा) प्रयोग गरिन्छ।"
+    "type": "Question 1: Article Exercise",
+    "prompt": "______ Pacific Ocean is the largest ocean on Earth.",
+    "hint": "Names of oceans.",
+    "answer": "The",
+    "explanationEn": "'The' is required before proper names of oceans.",
+    "explanationNp": "महासागरको नाम अगाडि सधैँ 'The' प्रयोग गरिन्छ।"
   },
   {
-    "type": "Question 2: Conjunction Choice",
-    "prompt": "I bought those books ...... they were interesting.",
-    "hint": "Conjunction expressing reason or cause.",
-    "answer": "because",
-    "explanationEn": "'because' introduces a clause giving a reason for the main action.",
-    "explanationNp": "कारण (Reason) देखाउनका लागि 'because' प्रयोग हुन्छ।"
+    "type": "Question 1: Article Exercise",
+    "prompt": "We stayed at ______ luxurious hotel during our stay in Pokhara.",
+    "hint": "Initial sound check for 'luxurious'.",
+    "answer": "a",
+    "explanationEn": "'a' is used because 'luxurious' starts with a consonant sound (/lʌɡˈʒʊərɪəs/).",
+    "explanationNp": "'luxurious' व्यञ्जन ध्वनि ('ल') बाट सुरु हुने भएकाले 'a' लाग्छ।"
   },
   {
-    "type": "Question 2: Modal Verb Choice",
-    "prompt": "I am sure, there ...... be somebody else in the room.",
-    "hint": "Modal verb for strong logical deduction/certainty.",
-    "answer": "must",
-    "explanationEn": "'must' is used for strong probability or logical deduction.",
-    "explanationNp": "पक्का अनुमान वा निश्चितता (Certainty) बुझाउन 'must' को प्रयोग हुन्छ।"
+    "type": "Question 1: Article Exercise",
+    "prompt": "He works as ______ auditor for a financial firm.",
+    "hint": "Initial sound check for 'auditor'.",
+    "answer": "an",
+    "explanationEn": "'an' is used because 'auditor' begins with a vowel sound (/ˈɔːdɪtər/).",
+    "explanationNp": "'auditor' स्वर ध्वनि ('आ') बाट सुरु हुने हुनाले 'an' प्रयोग गरिन्छ।"
   },
   {
-    "type": "Question 2: Conditional Verb Form",
-    "prompt": "I ...... (attend) the party if they had invited me.",
-    "hint": "Third Conditional formula: if + past perfect, would have + V3.",
-    "answer": "would have attended",
-    "explanationEn": "Third conditional requires 'would have + V3' in the main clause.",
-    "explanationNp": "Third Conditional मा Main Clause मा 'would have + V3' प्रयोग गरिन्छ।"
+    "type": "Question 1: Article Exercise",
+    "prompt": "She made ______ mistake while calculating the final total.",
+    "hint": "Singular countable noun in general context.",
+    "answer": "a",
+    "explanationEn": "'a' is used before 'mistake' as it starts with a consonant sound (/m/).",
+    "explanationNp": "'mistake' व्यञ्जन ध्वनि ('म') बाट सुरु हुने भएकाले 'a' लाग्छ।"
   },
   {
-    "type": "Question 2: Passive Voice Form",
-    "prompt": "The books ...... (bring) before he left the house.",
-    "hint": "Past perfect passive: had been + V3.",
-    "answer": "had been brought",
-    "explanationEn": "The action occurred before another past action, requiring Past Perfect Passive.",
-    "explanationNp": "अतीतको अर्को कामभन्दा पहिले भएको कर्मवाच्य (Passive) मा 'had been + V3' लाग्छ।"
+    "type": "Question 1: Article Exercise",
+    "prompt": "______ gold is a precious metal used in jewelry.",
+    "hint": "Material/uncountable noun used in a general sense.",
+    "answer": "-",
+    "explanationEn": "No article (-) is used before material nouns used in a general sense.",
+    "explanationNp": "सामान्य अर्थमा Material Noun (सुन, चाँदी) को कुरा गर्दा कुनै Article (-) लाग्दैन।"
   },
   {
-    "type": "Question 2: Verb Tense Form",
-    "prompt": "Ranju ...... (complete) her M Phil by 2085 B.S.",
-    "hint": "Future completion deadline: will have + V3.",
-    "answer": "will have completed",
-    "explanationEn": "Future deadlines marked with 'by + future time' take Future Perfect tense.",
-    "explanationNp": "भविष्यको तोकिएको समयसम्म काम सकिने हुनाले Future Perfect ('will have completed') लाग्छ।"
+    "type": "Question 1: Article Exercise",
+    "prompt": "______ gold mined in South Africa is exported globally.",
+    "hint": "Material noun specified by a defining phrase.",
+    "answer": "The",
+    "explanationEn": "'The' is used when a material noun ('gold') is made specific by a modifying phrase.",
+    "explanationNp": "साउथ अफ्रिकामा उत्खनन गरिएको तोकिएको सुन भएकाले 'The' प्रयोग हुन्छ।"
   },
   {
-    "type": "Question 2: Preposition Choice",
-    "prompt": "She is very fond ______ listening to classical music.",
-    "hint": "Fixed adjective preposition pattern.",
-    "answer": "of",
-    "explanationEn": "The adjective 'fond' is always followed by the preposition 'of'.",
-    "explanationNp": "'fond' शब्दपछि सधैँ Preposition 'of' को प्रयोग हुन्छ।"
+    "type": "Question 1: Article Exercise",
+    "prompt": "He left for the airport ______ hour ago.",
+    "hint": "Silent letter rule for 'hour'.",
+    "answer": "an",
+    "explanationEn": "'an' is used because 'hour' starts with a vowel sound (/aʊər/).",
+    "explanationNp": "'hour' को उच्चारण स्वर ध्वनिबाट हुने भएकाले 'an' लाग्छ।"
   },
   {
-    "type": "Question 2: Preposition Choice",
-    "prompt": "He prevented me ______ entering the examination hall.",
-    "hint": "Fixed verb preposition pattern.",
-    "answer": "from",
-    "explanationEn": "Verbs of stopping/preventing take 'from + -ing verb'.",
-    "explanationNp": "'prevent' जस्ता रोक्ने अर्थ दिने शब्दपछि 'from + -ing' प्रयोग गरिन्छ।"
+    "type": "Question 1: Article Exercise",
+    "prompt": "She hopes to get ______ job in a multinational company.",
+    "hint": "Unspecified singular countable noun with a consonant sound.",
+    "answer": "a",
+    "explanationEn": "'a' is used before 'job' as it begins with a consonant sound (/dʒ/).",
+    "explanationNp": "'job' व्यञ्जन ध्वनि ('ज') बाट सुरु हुने भएकाले 'a' लाग्छ।"
   },
   {
-    "type": "Question 2: Conjunction Choice",
-    "prompt": "He worked hard ...... he could pass the examination.",
-    "hint": "Conjunction expressing purpose.",
-    "answer": "so that",
-    "explanationEn": "'so that' expresses purpose followed by a subject + modal verb clause.",
-    "explanationNp": "उद्देश्य (Purpose) प्रकट गर्न 'so that' प्रयोग हुन्छ।"
+    "type": "Question 1: Article Exercise",
+    "prompt": "I saw ______ one-eyed man asking for directions on the street.",
+    "hint": "Initial sound check for 'one-eyed'.",
+    "answer": "a",
+    "explanationEn": "'a' is used because 'one-eyed' begins with a consonant sound (/wʌn/).",
+    "explanationNp": "'one-eyed' को उच्चारण व्यञ्जन ध्वनि ('व') बाट सुरु हुने भएकाले 'a' लाग्छ।"
   },
   {
-    "type": "Question 2: Modal Verb Choice",
-    "prompt": "You ...... respect your elders and teachers.",
-    "hint": "Modal verb for moral duty or social obligation.",
-    "answer": "ought to",
-    "explanationEn": "'ought to' or 'should' expresses moral duty.",
-    "explanationNp": "नैतिक कर्तव्य (Moral Duty) बुझाउन 'ought to' वा 'should' प्रयोग गरिन्छ।"
+    "type": "Question 1: Article Exercise",
+    "prompt": "______ Sahara is the largest hot desert in the world.",
+    "hint": "Names of deserts.",
+    "answer": "The",
+    "explanationEn": "'The' is required before proper names of deserts.",
+    "explanationNp": "मरुभूमिको नाम अगाडि सधैँ 'The' प्रयोग गरिन्छ।"
   },
   {
-    "type": "Question 2: Preposition Choice",
-    "prompt": "Divide these sweets ...... the four children.",
-    "hint": "Distribution among three or more individuals.",
-    "answer": "among",
-    "explanationEn": "'among' is used when distributing or placing among three or more people.",
-    "explanationNp": "तीन वा सोभन्दा बढी मानिसहरू बीच बाँड्दा 'among' प्रयोग हुन्छ।"
+    "type": "Question 1: Article Exercise",
+    "prompt": "They arrived on ______ third of October.",
+    "hint": "Ordinal numbers rule.",
+    "answer": "the",
+    "explanationEn": "'the' is used before ordinal numbers (e.g., first, second, third).",
+    "explanationNp": "क्रमवाचक संख्या (Ordinal Numbers जस्तै: first, second, third) अगाडि 'the' प्रयोग हुन्छ।"
   },
   {
-    "type": "Question 2: Preposition Choice",
-    "prompt": "There is a negotiation going on ...... Nepal and India.",
-    "hint": "Relationship/interaction between exactly two parties.",
-    "answer": "between",
-    "explanationEn": "'between' is used when referring to two distinct entities.",
-    "explanationNp": "दुईवटा देश वा पक्षको बीचमा कुरा गर्दा 'between' प्रयोग हुन्छ।"
-  },
-  {
-    "type": "Question 2: Preposition Choice",
-    "prompt": "He has been living in Kathmandu ...... 2018.",
-    "hint": "Starting point of time for Present Perfect Continuous.",
-    "answer": "since",
-    "explanationEn": "'since' specifies a specific starting point in time.",
-    "explanationNp": "निश्चित सुरुवात समय (Point of time) का लागि 'since' प्रयोग हुन्छ।"
-  },
-  {
-    "type": "Question 2: Preposition Choice",
-    "prompt": "She has been studying ...... three hours.",
-    "hint": "Duration/period of time.",
-    "answer": "for",
-    "explanationEn": "'for' specifies a duration or quantity of time.",
-    "explanationNp": "समयको अवधि (Period of time) जनाउन 'for' प्रयोग हुन्छ।"
-  },
-  {
-    "type": "Question 2: Preposition Choice",
-    "prompt": "The cat jumped ...... the table.",
-    "hint": "Preposition showing movement onto a surface.",
-    "answer": "onto",
-    "explanationEn": "'onto' indicates movement ending on a surface.",
-    "explanationNp": "गतिशीलता (Movement) देखाउँदै सतहमा पुग्दा 'onto' प्रयोग हुन्छ।"
-  },
-  {
-    "type": "Question 2: Preposition Choice",
-    "prompt": "He died ...... cholera last week.",
-    "hint": "Cause of death by disease.",
-    "answer": "of",
-    "explanationEn": "Die + 'of' + disease (e.g., died of cancer, died of cholera).",
-    "explanationNp": "कुनै रोगका कारण मृत्यु हुँदा 'die of' प्रयोग गरिन्छ।"
-  },
-  {
-    "type": "Question 2: Preposition Choice",
-    "prompt": "She accused him ...... stealing her purse.",
-    "hint": "Fixed verb pattern for charge/allegation.",
-    "answer": "of",
-    "explanationEn": "'accuse someone of something' is a fixed collocation.",
-    "explanationNp": "'accuse' शब्दपछि सधैँ 'of' लाग्छ।"
-  },
-  {
-    "type": "Question 2: Conjunction Choice",
-    "prompt": "Walk carefully ...... you should fall down.",
-    "hint": "Conjunction warning of a negative consequence.",
-    "answer": "lest",
-    "explanationEn": "'lest' means 'for fear that' and is followed by 'should'.",
-    "explanationNp": "'lest' को अर्थ 'नत्र/कतै...होला' हुन्छ र यसपछि 'should' आउँछ।"
-  },
-  {
-    "type": "Question 2: Conjunction Choice",
-    "prompt": "She is not only intelligent ...... also hardworking.",
-    "hint": "Correlative conjunction pair.",
-    "answer": "but",
-    "explanationEn": "'not only' pairs with 'but also'.",
-    "explanationNp": "'not only' को जोडी सधैँ 'but also' हुन्छ।"
-  },
-  {
-    "type": "Question 2: Modal Verb Choice",
-    "prompt": "...... I come in, sir?",
-    "hint": "Formal permission request.",
-    "answer": "May",
-    "explanationEn": "'May' is used for formal polite permission requests.",
-    "explanationNp": "शिष्टाचार र औपचारिक अनुमति माग्दा 'May' प्रयोग गरिन्छ।"
-  },
-  {
-    "type": "Question 2: Passive Voice Form",
-    "prompt": "A new bridge ...... (build) over the river right now.",
-    "hint": "Present continuous passive: is being + V3.",
-    "answer": "is being built",
-    "explanationEn": "'right now' indicates present continuous passive action.",
-    "explanationNp": "अहिले भइरहेको कामको कर्मवाच्य (Passive) मा 'is being + V3' प्रयोग हुन्छ।"
-  },
-  {
-    "type": "Question 2: Conditional Verb Form",
-    "prompt": "If you heat water to 100 degrees, it ...... (boil).",
-    "hint": "Zero conditional scientific fact.",
-    "answer": "boils",
-    "explanationEn": "Zero conditional (general facts) uses Simple Present in both clauses.",
-    "explanationNp": "वैज्ञानिक सत्य कुरामा Zero Conditional (Simple Present) प्रयोग हुन्छ।"
-  },
-  {
-    "type": "Question 2: Conditional Verb Form",
-    "prompt": "If I were you, I ...... (accept) the offer.",
-    "hint": "Second conditional hypothetical advice.",
-    "answer": "would accept",
-    "explanationEn": "Second conditional uses 'would + V1' in the main clause.",
-    "explanationNp": "काल्पनिक अवस्था वा सल्लाह (Second Conditional) मा 'would + V1' प्रयोग हुन्छ।"
-  },
-  {
-    "type": "Question 3: Word Rearrangement",
-    "prompt": "Rearrange: arrive / the principal / to / on time / the teachers / expected",
-    "hint": "Formula: Subject + Verb + Object + Infinitive Phrase.",
-    "answer": "The teachers expected the principal to arrive on time",
-    "explanationEn": "Subject (The teachers) + Verb (expected) + Object (the principal) + Infinitive (to arrive on time).",
-    "explanationNp": "कर्ता 'The teachers', क्रिया 'expected', र Infinitive 'to arrive' सही क्रम हो।"
-  },
-  {
-    "type": "Question 3: Word Rearrangement",
-    "prompt": "Rearrange: new employees / to / is planning / hire / the company",
-    "hint": "Formula: Subject + Auxiliary Verb + Main Verb + Object.",
-    "answer": "The company is planning to hire new employees",
-    "explanationEn": "Subject (The company) + Verb (is planning) + Infinitive (to hire) + Object (new employees).",
-    "explanationNp": "कर्ता 'The company', क्रिया 'is planning', र Infinitive 'to hire' हो।"
-  },
-  {
-    "type": "Question 3: Word Rearrangement",
-    "prompt": "Rearrange: to / next year / graduate / expects / Barbara",
-    "hint": "Formula: Subject + Verb + Infinitive + Time.",
-    "answer": "Barbara expects to graduate next year",
-    "explanationEn": "Subject (Barbara) + Verb (expects) + Infinitive (to graduate) + Time phrase (next year).",
-    "explanationNp": "कर्ता 'Barbara' अगाडि र समय 'next year' अन्त्यमा आउँछ।"
-  },
-  {
-    "type": "Question 3: Word Rearrangement",
-    "prompt": "Rearrange: to / require / their medical exams / all hospitals / pass / doctors",
-    "hint": "Formula: Subject + Verb + Object + Infinitive Phrase.",
-    "answer": "All hospitals require doctors to pass their medical exams",
-    "explanationEn": "Subject (All hospitals) + Verb (require) + Object (doctors) + Infinitive (to pass...).",
-    "explanationNp": "कर्ता 'All hospitals' र क्रिया 'require' पछि कर्म 'doctors' आउँछ।"
-  },
-  {
-    "type": "Question 3: Word Rearrangement",
-    "prompt": "Rearrange: a / language / foreign / we / to / learn / decided",
-    "hint": "Formula: Subject + Verb + Infinitive + Object.",
-    "answer": "We decided to learn a foreign language",
-    "explanationEn": "Subject (We) + Verb (decided) + Infinitive (to learn) + Object (a foreign language).",
-    "explanationNp": "कर्ता 'We', क्रिया 'decided', र Infinitive 'to learn' हो।"
-  },
-  {
-    "type": "Question 3: Word Rearrangement",
-    "prompt": "Rearrange: dress appropriately / job applicants / the office / to / for their interviews / advised",
-    "hint": "Formula: Subject + Verb + Object + Infinitive Phrase.",
-    "answer": "The office advised job applicants to dress appropriately for their interviews",
-    "explanationEn": "Subject (The office) + Verb (advised) + Object (job applicants) + Infinitive (to dress...).",
-    "explanationNp": "कर्ता 'The office', क्रिया 'advised', र उद्देश्य अन्त्यमा राखिन्छ।"
-  },
-  {
-    "type": "Question 3: Word Rearrangement",
-    "prompt": "Rearrange: teacher / hard / the / work / the students / made",
-    "hint": "Causative verb formula: Subject + made + Object + V1.",
-    "answer": "The teacher made the students work hard",
-    "explanationEn": "Causative 'make' takes a bare infinitive (V1 without 'to'): Subject + made + Object + V1.",
-    "explanationNp": "Causative verb 'make' पछि Bare Infinitive (V1) को प्रयोग हुन्छ।"
-  },
-  {
-    "type": "Question 3: Word Rearrangement",
-    "prompt": "Rearrange: easily / solved / the problem / the clever boy",
-    "hint": "Formula: Subject + Verb + Object + Adverb.",
-    "answer": "The clever boy solved the problem easily",
-    "explanationEn": "Subject (The clever boy) + Verb (solved) + Object (the problem) + Adverb (easily).",
-    "explanationNp": "कर्ता 'The clever boy', क्रिया 'solved', र Adverb 'easily' वाक्यको अन्त्यमा आउँछ।"
-  },
-  {
-    "type": "Question 3: Word Rearrangement",
-    "prompt": "Rearrange: smoking / health / is / to / injurious",
-    "hint": "Formula: Subject + Verb + Adjective + Prepositional Phrase.",
-    "answer": "Smoking is injurious to health",
-    "explanationEn": "Subject (Smoking) + Verb (is) + Complement (injurious to health).",
-    "explanationNp": "Subject (Smoking) वाक्यको सुरुमा र Complement 'injurious to health' अन्त्यमा आउँछ।"
-  },
-  {
-    "type": "Question 3: Word Rearrangement",
-    "prompt": "Rearrange: the / broke / playing / window / boys / cricket",
-    "hint": "Formula: Subject + participle clause + Verb + Object.",
-    "answer": "The boys playing cricket broke the window",
-    "explanationEn": "Subject (The boys playing cricket) + Verb (broke) + Object (the window).",
-    "explanationNp": "कर्ता 'The boys playing cricket' र क्रिया 'broke' हो।"
-  },
-  {
-    "type": "Question 3: Word Rearrangement",
-    "prompt": "Rearrange: beautiful / what / a / picture / this / is",
-    "hint": "Exclamatory formula: What + a/an + adjective + noun + Subject + Verb!",
-    "answer": "What a beautiful picture this is",
-    "explanationEn": "Exclamatory structure: What + a + adjective + noun + Subject + Verb.",
-    "explanationNp": "विस्मयादिबोधक वाक्यमा 'What a...' पछि अन्तमा 'Subject + Verb' आउँछ।"
-  },
-  {
-    "type": "Question 3: Word Rearrangement",
-    "prompt": "Rearrange: no sooner / the bell / the students / rang / than / left / the classroom",
-    "hint": "Inversion formula: No sooner + had/did + Subject + V1/V3 + than + clause.",
-    "answer": "No sooner did the bell ring than the students left the classroom",
-    "explanationEn": "'No sooner' requires inverted auxiliary verb before subject, followed by 'than'.",
-    "explanationNp": "'No sooner' बाट वाक्य सुरु हुँदा Auxiliary verb अगाडि आउँछ र 'than' जोडिन्छ।"
-  },
-  {
-    "type": "Question 3: Word Rearrangement",
-    "prompt": "Rearrange: hard / works / she / so that / scholarship / win / a / she / can",
-    "hint": "Purpose structure: Clause 1 + so that + Subject + can + V1.",
-    "answer": "She works hard so that she can win a scholarship",
-    "explanationEn": "Main Clause (She works hard) + Conjunction (so that) + Purpose Clause (she can win a scholarship).",
-    "explanationNp": "'so that' ले उद्देश्य जोड्छ: She works hard + so that + she can win a scholarship."
-  },
-  {
-    "type": "Question 3: Word Rearrangement",
-    "prompt": "Rearrange: despite / the rain / went / heavy / out / they",
-    "hint": "Formula: Despite + noun phrase, Subject + Verb.",
-    "answer": "They went out despite the heavy rain",
-    "explanationEn": "Subject + Verb (They went out) + Prepositional phrase (despite the heavy rain).",
-    "explanationNp": "'despite' पछि Noun phrase ('the heavy rain') प्रयोग हुन्छ।"
-  },
-  {
-    "type": "Question 3: Word Rearrangement",
-    "prompt": "Rearrange: neither / nor / his friends / present / was / he / were",
-    "hint": "Proximity verb agreement: verb agrees with the closer subject ('his friends').",
-    "answer": "Neither he nor his friends were present",
-    "explanationEn": "'Neither...nor' structure: verb agrees with the subject closest to it ('his friends' = 'were').",
-    "explanationNp": "'Neither...nor' मा पछिल्लो कर्ता (his friends) अनुसार क्रिया (were) राखिन्छ।"
-  },
-  {
-    "type": "Question 3: Word Rearrangement",
-    "prompt": "Rearrange: late / he / missed / because / the bus / was / he",
-    "hint": "Formula: Main clause + because + Reason clause.",
-    "answer": "He missed the bus because he was late",
-    "explanationEn": "Main action (He missed the bus) + Reason (because he was late).",
-    "explanationNp": "मुख्य परिणाम अगाडि र कारण 'because' पछि राखिन्छ।"
-  },
-  {
-    "type": "Question 3: Word Rearrangement",
-    "prompt": "Rearrange: necessary / it / to / computer skills / learn / is",
-    "hint": "Dummy subject formula: It is + adjective + to + V1.",
-    "answer": "It is necessary to learn computer skills",
-    "explanationEn": "Dummy Subject structure: It + is + adjective (necessary) + Infinitive (to learn...).",
-    "explanationNp": "'It is necessary...' बाट संरचना सुरु हुन्छ।"
+    "type": "Question 1: Article Exercise",
+    "prompt": "He is ______ unique artist with a distinctive personal style.",
+    "hint": "Initial sound check for 'unique'.",
+    "answer": "a",
+    "explanationEn": "'a' is used because 'unique' begins with a consonant sound (/juːˈniːk/).",
+    "explanationNp": "'unique' को उच्चारण व्यञ्जन ध्वनि ('यु') बाट हुने भएकाले 'a' लाग्छ।"
   }
 ]
